@@ -21,4 +21,9 @@ setinter/
 .ipynb_checkpoints
 */.ipynb_checkpoints/*
 
+# files
+.txt
+.pkl
+.json
+
 
